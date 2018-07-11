@@ -2,14 +2,14 @@
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1530640864099,
             "changeTime": 1530641565348,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1530640864099,
             "changeTime": 1530640864099,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531252335854,
             "changeTime": 1531252335854,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1530640864099,
             "changeTime": 1530640864099,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX",
         {
-            "state": "n",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531250219780,
             "changeTime": 1531250219780,
             "contentHash": "517935551e3444f00e2db1d66734e593bcadbe92",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,66 +75,66 @@
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1531252335757,
             "changeTime": 1531252335757,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1531252335771,
             "changeTime": 1531252335771,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1531252335785,
             "changeTime": 1531252335785,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1531252335799,
             "changeTime": 1531252335799,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1531252335810,
             "changeTime": 1531252335810,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -144,10 +144,10 @@
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4813,
-            "modifiedTime": 1531252335853,
-            "changeTime": 1531252335853,
-            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37"
+            "size": 4929,
+            "modifiedTime": 1531309528612,
+            "changeTime": 1531309528612,
+            "contentHash": "ebb20198a7ea1112107c2ce27b55de6829caf3aa"
         }
     ],
     [
@@ -157,10 +157,10 @@
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4477,
-            "modifiedTime": 1531252335853,
-            "changeTime": 1531252335853,
-            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1"
+            "size": 4595,
+            "modifiedTime": 1531309528612,
+            "changeTime": 1531309528612,
+            "contentHash": "aeffa46f3879f72f2a9f630a8475bd0d8e949920"
         }
     ],
     [
@@ -170,10 +170,10 @@
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 17878,
-            "modifiedTime": 1531252335845,
-            "changeTime": 1531252335845,
-            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8"
+            "size": 17980,
+            "modifiedTime": 1531309528601,
+            "changeTime": 1531309528601,
+            "contentHash": "b7f886cd42b968297242c59583b7b64d88ea5cad"
         }
     ],
     [
@@ -183,49 +183,49 @@
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4473,
-            "modifiedTime": 1531252335853,
-            "changeTime": 1531252335853,
-            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b"
+            "size": 4587,
+            "modifiedTime": 1531309528612,
+            "changeTime": 1531309528612,
+            "contentHash": "4d7f44d645bb4da7a56b204c8e8610c49b36f869"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1531252335856,
             "changeTime": 1531252335856,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531252335753,
             "changeTime": 1531252335753,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531252335751,
             "changeTime": 1531252335751,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -236,9 +236,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531252335751,
-            "changeTime": 1531252335751,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "modifiedTime": 1531309528476,
+            "changeTime": 1531309528476,
+            "contentHash": "e2c55c3d04baec3534809c6a36bd5648b363c119"
         }
     ],
     [
@@ -249,35 +249,126 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531252335805,
-            "changeTime": 1531252335805,
-            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+            "modifiedTime": 1531309528528,
+            "changeTime": 1531309528528,
+            "contentHash": "90636cdc71b89fa56dd0fbee799331e101391c9d"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531252335840,
             "changeTime": 1531252335840,
-            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1531252335855,
             "changeTime": 1531252335855,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact\\fields\\DataNasciento__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact\\fields\\DataNasciento__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1531309528482,
+            "changeTime": 1531309528482,
+            "contentHash": "0d8c09cecf6ec27275bb20a030f34c5c7aa9b904"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9612,
+            "modifiedTime": 1531309528496,
+            "changeTime": 1531309528496,
+            "contentHash": "08876fa91ab6ee7c87a52fcf1ec56a252489e237"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9321,
+            "modifiedTime": 1531309528508,
+            "changeTime": 1531309528508,
+            "contentHash": "63d909e1b900c9a3a49ca564f3a4066733f1a642"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9612,
+            "modifiedTime": 1531309528521,
+            "changeTime": 1531309528521,
+            "contentHash": "e7dd6201dacc878681110138c3e698388d6d5511"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\layouts\\Contact-Contact (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9636,
+            "modifiedTime": 1531309528532,
+            "changeTime": 1531309528532,
+            "contentHash": "5d9999c5189c31f5fff00f04b31c1687f57180a6"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531309528478,
+            "changeTime": 1531309528478,
+            "contentHash": "aaa47d5ed10943e8aa72bc26fa47fa40d66d94d1"
+        }
+    ],
+    [
+        "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Fontes\\DX-Salesforce\\RENATO_HC\\SFDX\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531309528477,
+            "changeTime": 1531309528477,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ]
 ]
